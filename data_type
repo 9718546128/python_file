@@ -1,0 +1,8 @@
+# string DataType
+# Python_3
+
+test_str = 'Hello World'
+print(test_str)
+print(test_str[0])
+print(test_str[0:5])
+
