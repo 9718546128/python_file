@@ -1,0 +1,4 @@
+a = int(input('Enter any 2 digit no.'))
+b = a%10                  # step1: save remainder 
+c = a//10                 # step2: division - dividend
+print(b,c)                # step3: print 
